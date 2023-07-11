@@ -1,0 +1,66 @@
+  .App {
+  text-align: center;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+  color: rgb(9, 144, 235); 
+  /* background-image: linear-gradient(79deg, #7439db, #C66FBC 48%, #F7944D); */
+  background-image: url("https://img.freepik.com/free-vector/bon-appetit-seamless-background-pattern-with-scattered-ingredients-kitchen-utensils-making-italian-ravioli-pasta-square-format-suitable-wallpaper-wrapping-paper-fabric_1284-44086.jpg");
+  background-repeat: no-repeat;
+  background-size: 208vh;
+  
+  
+}
+
+.auth-form-container, .login-form, .register-form {
+  display: flex;
+  flex-direction: column;
+  background-image: url("https://t3.ftcdn.net/jpg/04/04/23/56/360_F_404235663_6urmNpMGxLdC2N5rGHqyVyKmmEz8VEwS.jpg");
+  background-size: 650vh;
+  background-repeat: no-repeat;
+}
+
+@media screen and (min-width: 600px) {
+  .auth-form-container {
+    padding: 5rem;
+    border: 1px solid white;
+    border-radius: 10px;
+    margin: 0.5rem;
+    background-image: url("https://img.freepik.com/free-vector/restaurant-mural-wallpaper_23-2148706001.jpg");
+    background-size:150vh;
+    background-repeat: no-repeat;
+  }
+}
+
+label {
+  text-align: left;
+  padding: 0.25rem 0;
+  background-image: url("https://img.freepik.com/free-vector/blackboard-food-background_23-2148050867.jpg?w=2000");
+  background-size: 1000vh;
+}
+
+input {
+  margin: 0.5rem 0;
+  padding: 1rem;
+  border: none;
+  border-radius: 10px;
+  
+}
+
+button {
+  border: none;
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  color: #0a71f8;
+}
+
+.link-btn {
+  background: none;
+  color: rgb(10, 255, 153);
+  text-decoration: underline;
+  background-image: url("https://st.depositphotos.com/1026266/54582/i/450/depositphotos_545822748-stock-photo-open-recipe-book-with-food.jpg");
+ 
+} 
