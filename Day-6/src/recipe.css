@@ -1,0 +1,92 @@
+*{
+  margin: 0;
+  padding: auto;
+}
+.body1{
+  /* background:url('wall13.jpg'); */
+  background-image:url(https://www.wvi.org/sites/default/files/shorthand/stories/PfN5qL4RY2/2371c73b-cef4-47ef-bb31-317baba5d348/assets/d6UYR878gg/shorthand1background-2560x1440.jpeg);
+  background-size: 6000vh;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  background-position:center;
+  background-size: cover;
+  margin-top: 65px;
+  height: 775vh;
+  background-attachment: fixed;
+}
+h3{
+  font-size: 40px;
+  color: rgb(14, 192, 247);
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.logo{
+  
+  /* background-image: url('book1.1.png');  */
+  height:262px;
+  background-position:center;
+  background-size: cover;
+  /* background-color: red; */
+  background-repeat: no-repeat;
+  /* position:fixed; */
+  width: 192px;
+  margin-left: 2cm;
+ 
+
+}
+/* .gallery{
+  cursor: pointer;
+          border: none;
+          width: 400px;
+          float:left;
+          background:transparent;
+          color:white;
+          margin-left:2cm;
+          margin-top: 40PX;
+          justify-content: center;
+          opacity: 95%;
+          border-radius: 20px;
+          font-size: 13px;
+          background-image: url(https://us.123rf.com/450wm/vecstock/vecstock2108/vecstock210800497/172678129-vegetables-and-utensils.jpg?ver=6);
+        } */
+        .gallery:hover{
+          font-size: 13px;
+          color: red;
+          border: none;
+          opacity: 100%;
+           background-color:none; 
+}
+.desc{
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  width: 47%;
+  margin-left: 9.5cm;
+  font-family: 'Courier New', Courier, monospace;
+  margin-block: 0.2cm;
+  text-align: center;
+  background-color: rgb(39, 251, 152);
+  background-image: url(https://e1.pxfuel.com/desktop-wallpaper/499/121/desktop-wallpaper-grill-danny-wood-thumbnail.jpg);
+  border-radius: 200px;
+  font-weight: bold;
+  object-fit: cover;
+}
+.desc:hover{
+  background-color: rgb(12, 182, 224);
+  color: rgb(39, 191, 251);
+}
+.aa{
+  margin-left: 10cm;
+}
+#searchbar{
+  margin-left: 15%;
+  padding:15px;
+  border-radius: 10px;
+  background: black;
+  color:white;
+  width: 145vh;
+  margin-right:center;
+  background-image: url(https://images7.alphacoders.com/525/thumb-350-525851.jpg);
+}
