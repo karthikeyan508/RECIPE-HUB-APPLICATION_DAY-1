@@ -1,0 +1,44 @@
+.about-us {
+    /* background-color: #fa9805; */
+    padding: 20px;
+    border: #333;
+    background-image: url(https://wallpaperaccess.com/full/2443613.jpg);
+    background-size: 250vh;
+    background-repeat: no-repeat;
+    font-size: 20px;
+    
+    
+  }
+  
+  h2 {
+    color: #333;
+    font-size: 25px;
+    /* border-top: #fa9805; */
+    background-image: url(https://wallpaperaccess.com/full/2443613.jpg);
+    border-top: 20cm;
+
+
+  }
+   
+  h3 {
+    color: #333;
+    font-size:  24px;
+    /* border-top: #fa9805; */
+    background-image: url(https://wallpaper-house.com/data/out/9/wallpaper2you_316834.jpg);
+    background-size: 220vh;
+    background-repeat: no-repeat;
+    color:white;
+
+
+
+  }
+  
+  p {
+    color: #666;
+    font-size: 16px;
+    align-items: center;
+        text-align: center;
+        border-width: 20vh ;
+        /* background-image: url(https://c0.wallpaperflare.com/preview/341/392/39/menu-notebook-background-spices.jpg); */
+  }
+  
