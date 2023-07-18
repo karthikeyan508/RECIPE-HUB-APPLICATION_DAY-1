@@ -1,0 +1,53 @@
+.struc {
+    max-width: 600px;
+    margin: 0 auto;;
+    padding: 120px;
+    /* background-image:url("https://wallpaperaccess.com/full/2882762.jpg"); */
+    height: 97.5vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    
+  }
+  .simp{
+    background-image: url("https://images.freeimages.com/variants/UjfykfuneAD5jME5SisA97gT/f4a36f6589a0e50e702740b15352bc00e4bfaf6f58bd4db850e167794d05993d");
+    background-repeat: no-repeat;
+    background-size:cover;
+    color: black;
+
+  }
+  .recipe {
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    color: #707070;
+  }
+  
+  h2 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #53c475;
+    margin-top: 20px;
+  }
+  
+  ul {
+    margin-top: 8px;
+    padding-left: 20px;
+    color: #000000;
+  }
+  
+  p {
+    color: #0d0e0d;
+    line-height: 1.5;
+  }
+  
+  p:first-child {
+    margin-top: 0;
+  }
+  
+  p:last-child {
+    margin-bottom: 0;
+    color: #0e1f1b;
+  }
+  

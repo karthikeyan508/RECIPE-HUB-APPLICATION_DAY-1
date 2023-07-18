@@ -1,0 +1,64 @@
+.App {
+  text-align: center;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+  color: rgb(4, 242, 250);
+  background-repeat: no-repeat;
+  background-size:cover;
+  width: 50px;
+}
+@media screen and (min-width: 600px) {
+  .auth-form-container {
+    height:80vh;
+    padding: 5rem;
+    border: 1px solid rgb(10, 243, 193);
+    /* border-radius: 10px; */
+     background-image: url("https://i0.wp.com/picjumbo.com/wp-content/uploads/homemade-dessert-tiramisu-served-in-individual-glasses.jpg?w=600&quality=80");
+    background-repeat: no-repeat;
+  background-size: 250vh;
+  margin-bottom:auto  ;
+  /* background-attachment: fixed; */
+  }
+  button {
+    border: none;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    color: #0a71f8;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSeTI5y3G4AVC4619smhAvGthyHaBn8Vuc2-vPCl-rIVQtuJKQ0Gx0EJ3Q9TYU-ES84yY&usqp=CAU);
+  }
+  label {
+    text-align: left;
+    padding: 0.25rem 0;
+    /* background-image: url("https://img.freepik.com/free-vector/blackboard-food-background_23-2148050867.jpg?w=2000"); */
+    background-size: 1000vh;
+  }
+
+input {
+  margin: 0.5rem 0;
+  padding: 1rem;
+  border: none;
+  border-radius: 10px;
+  background-image:url(https://c0.wallpaperflare.com/preview/339/460/2/chef-chilli-chilli-peppers-cooker.jpg)
+
+}
+.link-btn {
+  background: none;
+  color: rgb(10, 255, 153);
+  text-decoration: underline;
+  /* background-image: url(https://st.depositphotos.com/1026266/54582/i/450/depositphotos_545822748-stock-photo-open-recipe-book-with-food.jpg); */
+ 
+} 
+button {
+  border: none;
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  color: #0a71f8;
+  background-image: url(https://w0.peakpx.com/wallpaper/296/16/HD-wallpaper-black-concrete-texture-black-concrete-abstract-texture.jpgU);
+}
+}

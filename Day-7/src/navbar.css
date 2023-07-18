@@ -1,0 +1,30 @@
+.NavBar{
+    background-color: rgb(238, 132, 32) !important;
+    opacity: 70%;
+    background-image: url(https://cdn.pixabay.com/photo/2017/08/06/06/44/pasta-2589585_640.jpg);
+    background-repeat: no-repeat;
+    background-size: 250vh;
+}
+
+.Account{
+    margin-left: 60vw;
+    
+}
+
+.menu{
+    color: white !important;
+    
+}
+
+.nav {
+    color:white !important;
+}
+.nav:hover{
+    background-color: white !important;
+    color:rgb(26, 1, 72) !important;
+    background-image: url("https://cdn.pixabay.com/photo/2017/08/06/06/44/pasta-2589585_640.jpg");
+}
+.navigation{
+    position: absolute;
+    
+}
