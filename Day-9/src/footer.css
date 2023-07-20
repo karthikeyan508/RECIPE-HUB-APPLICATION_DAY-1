@@ -1,0 +1,15 @@
+.footer{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #1708f1ea;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(https://i.pinimg.com/736x/e9/e0/34/e9e034e29c1dc2a19f77e90936cc9dea.jpg);
+    text-align: center;
+}
+.footer_button{
+    color: rgb(4, 83, 83) !important;   
+}
