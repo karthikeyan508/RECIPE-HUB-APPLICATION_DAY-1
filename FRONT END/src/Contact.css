@@ -1,0 +1,91 @@
+.upload-container {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-image: url(https://wallpaperaccess.com/full/2443613.jpg);
+
+}
+.imgi{
+    background-image:url("https://cdn.pixabay.com/photo/2022/05/22/13/21/healthy-7213383_640.jpg");
+    height: 150vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(https://wallpaperaccess.com/full/2443613.jpg);
+
+}
+.upload-heading {
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  color: #333;
+  background-image: url(https://wallpaperaccess.com/full/2443613.jpg);
+
+}
+
+.form-label {
+  display: block;
+  margin-top: 20px;
+  font-weight: bold;
+  color: #131212;
+  background-image: url(https://wallpaperaccess.com/full/2443613.jpg);
+
+}
+
+.input-field {
+  width: 100%;
+  padding: 10px;
+  margin-top: 8px;
+  border: none;
+  border-radius: 4px;
+  background-color: #fdf5f5;
+  /* background-image: url(https://c0.wallpaperflare.com/preview/339/460/2/chef-chilli-chilli-peppers-cooker.jpg);   */
+  color:#fcf9f9
+
+}
+
+.textarea-field {
+  width: 100%;
+  padding: 10px;
+  margin-top: 8px;
+  border: none;
+  border-radius: 4px;
+  background-color: #f2f2f2;
+  color: #f7f1f1;
+  resize: vertical;
+  background-image: url(https://c0.wallpaperflare.com/preview/339/460/2/chef-chilli-chilli-peppers-cooker.jpg);  
+
+}
+
+.submit-button {
+  display: block;
+  width: 100%;
+  padding: 12px;
+  margin-top: 20px;
+  background-color: blue;
+  color: #0a0a0a;
+  border: none;
+  border-radius: 30px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  background-image: url(https://wallpaperaccess.com/full/2443613.jpg);
+
+}
+
+.submit-button:hover {
+  background-color: #5246de;
+  background-image: url(https://wallpaperaccess.com/full/2443613.jpg);
+
+}
+
+.submit-button:disabled {
+  background-color: #1d1c1c;
+  cursor: not-allowed;
+}
+
+.submit-button:disabled:hover {
+  background-color: #ccc;
+}

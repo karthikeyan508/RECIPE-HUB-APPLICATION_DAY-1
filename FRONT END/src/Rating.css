@@ -1,0 +1,19 @@
+.image-rating {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 50px;
+  }
+  
+  .rating-stars {
+    font-size: 10vh;
+  }
+  
+  .star {
+    cursor: pointer;
+  }
+  
+  .star.filled {
+    color: gold;
+  }
+  
